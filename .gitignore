@@ -1,0 +1,7 @@
+# ignore code/ folder pulled from udemy cource
+# ignore materials/ folder
+code/*
+materials/*
+
+# ignore private key files
+*.pem
